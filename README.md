@@ -1,2 +1,1 @@
 # Figurebed
-图床
